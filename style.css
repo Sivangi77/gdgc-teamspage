@@ -1,4 +1,4 @@
-/* General Reset */
+
 * {
   margin: 0;
   padding: 0;
@@ -43,7 +43,7 @@ body {
 }
 
 .nav-links li a:hover {
-  color: #4285f4; /* Google blue hover */
+  color: #4285f4; 
 }
 
 /* Hero Section */
@@ -108,7 +108,7 @@ body {
 /* --- Footer --- */
 .footer {
   background: #fff;
-  padding: 2rem 4rem; /* compact padding */
+  padding: 2rem 4rem; 
   border-top: 1px solid #eee;
   font-family: "Poppins", sans-serif;
 }
@@ -226,7 +226,7 @@ body {
 }
 
 .footer-links h3 {
-  font-size: 1.3rem; /* slightly bigger */
+  font-size: 1.3rem;
   font-weight: 600;
   margin-bottom: 0.4rem;
   position: relative;
